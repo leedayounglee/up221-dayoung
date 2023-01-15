@@ -1,17 +1,17 @@
 # dataset 1 
-1. **Name**: Public Bathrooms in West LA
-2. **Description**:
-3. **URL Source**:
-4. **URL Repo**:
+1. **Name**: Public Restrooms 
+2. **Description**: Public restrooms are a rarity, especially in West LA. I'd like to look into where public restrooms are available, and given the resources, I'd also like to delve into why some areas are more restrictive to usages of their facilities than others (including what demographics populate the area, and how much that influences the facility owners' decisions).
+3. **URL Source**: https://mygeodata.cloud/data/download/osm/public-toilets-or-bathroom/united-states-of-america--california/los-angeles-county/los-angeles
+4. **URL Repo**: https://github.com/leedayounglee/up221-dayoung/blob/main/1.%20geodata%20restrooms.zip
 
 # dataset 2
 1. **Name**: Sites of Community Contestation 
-2. **Description**:
-3. **URL Source**:
-4. **URL Repo**:
+2. **Description**: Ethnic enclaves of Los Angeles have great histories of contestation with developer tycoons overturning their communities and displacing the locals. This dataset shows us where redevelopment agency project boundaries are, and at first glance, we can already see that they are largely happening in communities with largely nonwhite demographics. 
+3. **URL Source**: https://geohub.lacity.org/datasets/lahub::community-redevelopment-agency-project-boundary/explore?location=34.043297%2C-118.241928%2C11.48
+4. **URL Repo**: https://github.com/leedayounglee/up221-dayoung/blob/main/Community_Redevelopment_Agency_Project_Boundary.csv
 
 # dataset 3
 1. **Name**: Affordable Housing Units 
-2. **Description**: Where they are concentrated. 
-3. **URL Source**:
-4. **URL Repo**:
+2. **Description**: For this dataset, I want to analyze where affordable housing developments are concentrated and delve into the reasons why. Already from surface-level glancing, we notice that they are more concentrated in the eastern and southern municipalities of Los Angeles, especially compared to the west. 
+3. **URL Source**: https://geohub.lacity.org/datasets/affordable-housing-development/explore?location=34.024842%2C-118.404263%2C11.13
+4. **URL Repo**: https://github.com/leedayounglee/up221-dayoung/blob/main/Affordable_Housing_Development.csv
